@@ -124,13 +124,13 @@ main
     display: block; 
     font-size: 9px; 
     font-weight: 700; 
-    color: #e11d48; 
+    color: #0056b3; 
     text-transform: uppercase; 
 }
 
-.blague.clair 
+.blague.fonce 
 { 
-    color: #f87171; 
+    color: #e9bd37; 
 }
 
 .prix 
@@ -142,7 +142,7 @@ main
     border-radius: 10px;
 }
 
-.prix.clair 
+.prix.fonce 
 { 
     background: #fff; 
     color: #1e293b; 
